@@ -6,9 +6,9 @@
 
 <div align=center>
     <a href="https://cs50.harvard.edu/python/2022/">Course Link</a> |
-    <a href="https://github.com/5ah1n/CS50_Python/tree/main/tasks/project">Final Project</a> |
-    <a href="https://github.com/5ah1n/CS50x_2022">CS50x</a> |
-    <a href="https://certificates.cs50.io/ade5b1c1-7b8a-4347-92d3-290652122d7d.pdf?size=letter">Certification </a> |
+    <a href="">Final Project</a> |
+    <a href="">CS50x</a> |
+    <a href="">Certification </a> |
 </div>
 
 <br>
