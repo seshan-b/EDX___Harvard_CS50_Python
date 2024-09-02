@@ -13,7 +13,7 @@
 
 <br>
 
-⚖️ [<em>Academical honesty</em>](https://cs50.harvard.edu/x/2023/honesty/)
+⚖️ [<em>Academical honesty</em>](https://cs50.harvard.edu/x/2024/honesty/)
 
 <br>
 <div align="center">
